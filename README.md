@@ -1,4 +1,4 @@
-> :warning: **After acquiring the F1DB.com domain OnlyF1-DB has been rebranded back to F1DB and can now be found again at [f1db/f1db](https://github.com/f1dbm/f1db)**
+> :warning: **After acquiring the F1DB.com domain OnlyF1-DB has been rebranded back to F1DB and can now be found again at [f1db/f1db](https://github.com/f1db/f1db)**
 > 
 > :warning: **Also old release artifacts can be found at the new location.**
 
