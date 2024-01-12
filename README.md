@@ -1,3 +1,7 @@
+> :warning: **After acquiring the F1DB.com domain OnlyF1-DB has been rebranded back to F1DB and can now be found again at [f1db/f1db](https://github.com/f1dbm/f1db)**
+> 
+> :warning: **Also old release artifacts can be found at the new location.**
+
 <p align="center">
     <img src="./logo-dark.png#gh-dark-mode-only" alt="OnlyF1" width="300" />
     <img src="./logo-light.png#gh-light-mode-only" alt="OnlyF1" width="300" />
